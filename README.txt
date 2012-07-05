@@ -14,7 +14,3 @@ Bill of Materials:
 NOTES:
 
 - the .png file has descriptive layers, the .bmp is just the b/w copper mask for etching
-
-- In order to fit everything in one layer the port headers are reversed 
-    from one another, so look for the connections to the ground plane
-    to make sure each port is wired in the correct direction.
